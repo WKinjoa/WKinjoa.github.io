@@ -2,12 +2,12 @@
 
 :root {
 	--primary-color: #5fb39a;
-    --secondary-color: #FFFFFF;
+    	--secondary-color: #FFFFFF;
 	--background-color: #f9f5f0;
 	--dark-color: #151515;
 }
 body{
-    background-image: url(../img/b_3.jpg);
+    background-image: url(./img/b_3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
